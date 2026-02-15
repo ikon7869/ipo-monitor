@@ -57,7 +57,7 @@ ipo-monitor/
 
 ```bash
 # Option A: Clone
-git clone https://github.com/YOUR_USERNAME/ipo-monitor.git
+git clone https://github.com/ikon7869/ipo-monitor.git
 
 # Option B: Fork via GitHub UI
 # Click "Fork" button at top-right
@@ -402,7 +402,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Ibrahim Khan**  
 📧 Email: ibrahim.786.ik09@gmail.com  
-🐙 GitHub: [@YourUsername](https://github.com/YourUsername)
 
 ---
 
